@@ -25,7 +25,7 @@ package contains minimally lispified wrappers and utility functions.
 
 # Example
 Example on how to use nuklear and a native renderer can be found in
-[`example.lisp`](example.lisp). See `#'compose-nuklear` function.
+[`example.lisp`](src/example.lisp). See `#'compose-nuklear` function.
 
 To run it, evaluate in your REPL:
 ```lisp
